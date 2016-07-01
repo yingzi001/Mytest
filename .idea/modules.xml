@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Mytest.iml" filepath="$PROJECT_DIR$/Mytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baidumaptest/baidumaptest.iml" filepath="$PROJECT_DIR$/baidumaptest/baidumaptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mulitmedia/mulitmedia.iml" filepath="$PROJECT_DIR$/mulitmedia/mulitmedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysercice1/mysercice1.iml" filepath="$PROJECT_DIR$/mysercice1/mysercice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsfor3dm/newsfor3dm.iml" filepath="$PROJECT_DIR$/newsfor3dm/newsfor3dm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processservice/processservice.iml" filepath="$PROJECT_DIR$/processservice/processservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
     </modules>
   </component>
 </project>

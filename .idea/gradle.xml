@@ -11,6 +11,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/baidumaptest" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/mulitmedia" />
+            <option value="$PROJECT_DIR$/mysercice1" />
+            <option value="$PROJECT_DIR$/newsfor3dm" />
+            <option value="$PROJECT_DIR$/processservice" />
+            <option value="$PROJECT_DIR$/service" />
           </set>
         </option>
         <option name="myModules">
@@ -18,6 +24,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/baidumaptest" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/mulitmedia" />
+            <option value="$PROJECT_DIR$/mysercice1" />
+            <option value="$PROJECT_DIR$/newsfor3dm" />
+            <option value="$PROJECT_DIR$/processservice" />
+            <option value="$PROJECT_DIR$/service" />
           </set>
         </option>
       </GradleProjectSettings>
