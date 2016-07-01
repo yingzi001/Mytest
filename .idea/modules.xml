@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/mysercice1/mysercice1.iml" filepath="$PROJECT_DIR$/mysercice1/mysercice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/newsfor3dm/newsfor3dm.iml" filepath="$PROJECT_DIR$/newsfor3dm/newsfor3dm.iml" />
       <module fileurl="file://$PROJECT_DIR$/processservice/processservice.iml" filepath="$PROJECT_DIR$/processservice/processservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshlibrary/pulltorefreshlibrary.iml" filepath="$PROJECT_DIR$/pulltorefreshlibrary/pulltorefreshlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
     </modules>
   </component>
